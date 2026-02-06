@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.dist/
+.build/
+.venv/
+venv/
+
+# Test temp files
+.pytest_tmp/
+
+
+# Outputs
+outputs/
+logs/
+
+# OS
+.DS_Store
+Thumbs.db
+

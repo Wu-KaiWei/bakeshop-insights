@@ -1,0 +1,11 @@
+date,order_id,product_id,quantity,channel,discount_rate
+2026-01-05,O1001,B001,3,in_store,0.00
+2026-01-05,O1002,B002,1,delivery,0.10
+2026-01-05,O1003,B004,2,in_store,0.00
+2026-01-06,O1004,B003,2,in_store,0.05
+2026-01-06,O1005,B006,4,delivery,0.00
+2026-01-06,O1006,B005,2,in_store,0.00
+2026-01-07,O1007,B002,2,in_store,0.00
+2026-01-07,O1008,B001,5,delivery,0.00
+2026-01-07,O1009,B004,3,delivery,0.10
+2026-01-08,O1010,B006,2,in_store,0.00
