@@ -1,3 +1,15 @@
+## 👋 About This Project (For Recruiters)
+
+This project is a practical Python data analysis tool built as part of my transition into IT.
+It demonstrates my ability to work with real-world data, write structured Python code,
+and generate meaningful outputs from CSV files.
+
+I am a career changer with an engineering background, currently seeking an
+IT Apprenticeship or Entry-Level IT role in the UK.
+This repository shows my hands-on experience with Python, data processing,
+and problem-solving using realistic business scenarios.
+
+
 # BakeShop Insights — Sales & Profit Analyzer (Python + Pandas)
 
 A command-line tool that analyses a bakery’s sales data from CSV files and generates KPI summaries,
